@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: project-k8s
-        image: 975050194085.dkr.ecr.us-east-1.amazonaws.com/elastic-container
+        image: akhil0069/project-k8s:tagname
         ports:
         - containerPort: 8080  
 
